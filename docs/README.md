@@ -1,4 +1,4 @@
-# **HƯỚNG DẪN SỬ DỤNG LOVELOCK**
+**HƯỚNG DẪN SỬ DỤNG LOVELOCK**
 
 LoveLock User Guide v1.0 - 20200210
 
