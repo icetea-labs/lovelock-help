@@ -67,8 +67,9 @@ Chỉ một mình bạn mới được quyền đăng bài vào Lock này.
 -   Sau khi nhận được email thông báo tài khoản đã được kích hoạt thành công, truy cập [https://lovelock.one/](https://lovelock.one/)
 -   Chọn nút Log in để đăng nhập vào tài khoản đã tạo
 -   Nhập Recovery phrase:
+
 	Cách 1:
-    -   Nhập chính xác 12 từ của Recovery phrase bạn nhận được lúc tạo tài khoản theo đúng thứ tự từ trái sang phải, từ trên xuống dưới và mỗi từ được phân cách bởi một khoảng trắng (một dấu cách)    
+  	 -   Nhập chính xác 12 từ của Recovery phrase bạn nhận được lúc tạo tài khoản theo đúng thứ tự từ trái sang phải, từ trên xuống dưới và mỗi từ được phân cách bởi một khoảng trắng (một dấu cách)    
 
 	Cách 2:
 	 - Nhấp chuột vào link Scan QR code. 
@@ -93,7 +94,8 @@ Chỉ một mình bạn mới được quyền đăng bài vào Lock này.
 ### 3.1.1. Tạo Lock
 
 -   Tại màn hình LoveLock:
-    Cách 1:
+   	
+	Cách 1:
 	-   Tại thanh Menu phía trên cùng của màn hình, chọn Create
     
 	Cách 2:
